@@ -69,7 +69,7 @@
 
             foreach($arrayNum as $num){
                 if($num == 1){
-                    echo "<p>This is </p>";
+                    echo "";
                 }
             }
 
